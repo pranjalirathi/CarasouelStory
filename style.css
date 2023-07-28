@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: monospace;
+    
+}
+
+body {
+    background: #fff;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    color: #000;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(https://eryhardian.files.wordpress.com/2013/04/winnie-the-pooh.jpg);
+
+  }
+
+  .swiper {
+    width: 100%;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    
+  }
+  
+  .swiper-slide {
+    border-radius: 15px;
+    color: white;
+    background-position: center;
+    background-size: cover;
+    width: 500px;
+    height: 500px;
+    background: #000;
+    padding: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 25px;
+    font-weight: 800;
+    line-height: 40px;
+    background-image: url(https://3.bp.blogspot.com/-jXJO5VHqXi0/T84g6R4kqvI/AAAAAAAAAXs/JCxPyeHy14o/s1600/Disney_Winnie_the_Pooh_cartoon_Wallpaper_15.jpg);
+    color: black;
+    
+
+  }
+
+
+  
